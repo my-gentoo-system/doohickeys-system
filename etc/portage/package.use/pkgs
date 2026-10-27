@@ -17,3 +17,4 @@ dev-lang/tk truetype
 net-misc/networkmanager -modemmanager -ppp ncurses wifi iwd
 media-video/pipewire -bluetooth
 www-client/firefox -telemetry -gmp-autoupdate system-png system-pipewire pulseaudio hwaccel pgo
+d
