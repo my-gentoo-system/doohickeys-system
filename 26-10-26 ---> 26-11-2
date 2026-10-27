@@ -1,0 +1,11 @@
+GENTOO CHANGELOGS
+2026-10-26
+#ran a system update while working 
+#ran depclean removing alsa-plugins had to re-emerge for my i3 status bar
+
+---------------------------------------------------------------------------------------
+
+2026-10-27
+#recompiled firefox using new useflags after fiding telemetry on and turning on some optimisations + helpful things
+**new flag line in /etc/portage/package.use/pkgs**
+  ***www-client/firefox -telemetry -gmp-autoupdate system-png system-pipewire pulseaudio hwaccel pgo***
