@@ -1,10 +1,20 @@
-HARDWARE
-
-***SPECS***----------------------
-ASUS-VIVOBOOK-M1502YA
-24GB of DDR4 3200MT/S
-Ryzen 7 5825U 8 cores 16 Threads Base 2Ghz Max 4.5Ghz
-AMD Barcelo integrated graphics 512Mb of dedicated VRAM
-***MODS***-----------------------
-+ 16GB ram stick totalling 24GB 3200MT/S
-+Intel AX210 Wifi Card (issues with mt7902)
+         -/oyddmdhs+:.                 gentoo@shitbox
+     -odNMMMMMMMMNNmhy+-`              --------------
+   -yNMMMMMMMMMMMNNNmmdhy+-            OS: Gentoo Linux x86_64
+ `omMMMMMMMMMMMMNmdmmmmddhhy/`         
+ omMMMMMMMMMMMNh   yohmdddhhhdo`       Kernel: Linux 6.18.57-gentoo-dist
+.ydMMMMMMMMMMd      /smdddhhhhdm+`     
+ oyhdmNMMMMMMMNd    dmddddhhhhyhNd.    
+  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    Display (CMN15F5): 1920x1080 in 15", 60 Hz [Built-in]
+       /mMMMMMMNNNmmmdddhhhhhmMNhs:    Display (DELL U3419W): 3440x1440 in 34", 60 Hz [External]
+    `oNMMMMMMMNNNmmmddddhhdmMNhs+`    
+  `sNMMMMMMMMNNNmmmdddddmNMmhs/.       
+ /NMMMMMMMMNNNNmmmdddmNMNdso:`         CPU: AMD Ryzen 7 5825U (16) @ 4.55 GHz
++MMMMMMMNNNNNmmmmdmNMNdso/-            GPU: AMD Barcelo [Integrated]
+yMMNNNNNNNmmmmmNNMmhs+/-`              Memory: 4.47 GiB / 22.86 GiB (20%)
+/hMMNNNNNNNNMNdhs++/-`                 Swap: Disabled
+`/ohdmmddhys+++/:.`                    Disk (/): 16.61 GiB / 271.28 GiB (6%) - ext4
+  `-//////:--.                         
+                                       Battery (ASUS Battery): 100% [AC Connected]
+                                       
