@@ -1,4 +1,6 @@
-gentoo duh 
-default eselect profile
-i3 wm + utils eg i3status
-very small file but whatever
+OS: Gentoo Linux x86_64
+Kernel: Linux 6.18.57-gentoo-dist
+Shell: bash 5.3.20
+WM: i3-4.25.1
+Browser: compied Firefox
+WM-Utils: i3status-2.15(status bar), dmenu-5.4(app launcher), feh(background)
