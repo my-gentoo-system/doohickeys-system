@@ -1,6 +1,20 @@
-OS: Gentoo Linux x86_64
-Kernel: Linux 6.18.57-gentoo-dist
-Shell: bash 5.3.20
-WM: i3-4.25.1
-Browser: compied Firefox
-WM-Utils: i3status-2.15(status bar), dmenu-5.4(app launcher), feh(background)
+         -/oyddmdhs+:.                 gentoo@shitbox
+     -odNMMMMMMMMNNmhy+-`              --------------
+   -yNMMMMMMMMMMMNNNmmdhy+-            OS: Gentoo Linux x86_64
+ `omMMMMMMMMMMMMNmdmmmmddhhy/`         Host: Vivobook_ASUSLaptop M1502YA_M1502YA (1.0)
+ omMMMMMMMMMMyqoc coqohmdddhhhdo`       Kernel: Linux 6.18.57-gentoo-dist
+.ydMMMMMMMMMM        smdddhhhhdm+`     Browser: Firefox
+ oyhdmNMMMMMMMNl___ldmddddhhhhyhNd.    Packages: 655 (emerge)
+  :oyhhdNNMMMMMMMNNNmmdddhhhhhyymMh    Shell: bash 5.3.20
+    .:+sydNMMMMMNNNmmmdddhhhhhhmMmy    WM: i3-4.25.1, dmenu-5.4
+       /mMMMMMMNNNmmmdddhhhhhmMNhs:    WM Utilities: i3status-2.15
+    `oNMMMMMMMNNNmmmddddhhdmMNhs+`     Terminal: kitty 0.49.2
+  `sNMMMMMMMMNNNmmmdddddmNMmhs/.       Terminal Font: Iosevka-Term (11pt)
+ /NMMMMMMMMNNNNmmmdddmNMNdso:`         Device-Management-Utilities: light, blueman, iwd,NetworkManager
++MMMMMMMNNNNNmmmmdmNMNdso/-            
+yMMNNNNNNNmmmmmNNMmhs+/-`              
+/hMMNNNNNNNNMNdhs++/-`                 
+`/ohdmmddhys+++/:.`                    
+  `-//////:--.                         
+                                      
+                                       Locale: en_GB.UTF-8
