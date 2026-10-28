@@ -10,3 +10,12 @@ GENTOO CHANGELOGS
 #recompiled firefox using new useflags after fiding telemetry on and turning on some optimisations + helpful things
 **new flag line in /etc/portage/package.use/pkgs**
   ***www-client/firefox -telemetry -gmp-autoupdate system-png system-pipewire pulseaudio hwaccel pgo***
+
+---------------------------------------------------------------------------------------
+
+2026-10-28   DEPCLEAN
+#just ran a depclean today tried installing cava and alsa flag was off turned it on still didnt work gave up
+
+---------------------------------------------------------------------------------------
+
+2026-10-29
